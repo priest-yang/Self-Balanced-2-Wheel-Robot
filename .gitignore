@@ -1,0 +1,8 @@
+.generated_files/
+build/
+dist/
+373_project_frame.zip
+private/
+*.mk*
+Makefile-genesis.properties
+*.mc3*

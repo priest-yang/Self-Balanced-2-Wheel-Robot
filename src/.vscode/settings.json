@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "plib_can1.h": "c",
+        "device.h": "c",
+        "definitions.h": "c",
+        "xutility": "c"
+    }
+}
